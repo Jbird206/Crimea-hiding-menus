@@ -1,0 +1,45 @@
+
+#panel1, #flip1 {
+    padding: 5px;
+    text-align: center;
+    background-color: #def1eb;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel1 {
+    padding: 20px;
+    display: none;
+  }
+
+  #panel2, #flip2 {
+    padding: 5px;
+    text-align: center;
+    background-color: #def1eb;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel2 {
+    padding: 20px;
+    display: none;
+  }
+
+  #panel3, #flip3 {
+    padding: 5px;
+    text-align: center;
+    background-color: #def1eb;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel3 {
+    padding: 20px;
+    display: none;
+  }
+
+  h1{
+      text-align: center;
+  }
+
+  .clickable {
+    cursor: pointer;
+    color: #0088cc;
+  }
